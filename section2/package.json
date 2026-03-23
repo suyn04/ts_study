@@ -1,5 +1,5 @@
 {
-    "name": "section1",
+    "name": "section2",
     "version": "1.0.0",
     "main": "index.js",
     "type": "module",
@@ -10,9 +10,6 @@
     "license": "ISC",
     "description": "",
     "dependencies": {
-        "@types/node": "^24.10.0"
-    },
-    "devDependencies": {
-        "undici-types": "^7.24.5"
+        "@types/node": "^25.5.0"
     }
 }
