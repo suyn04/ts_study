@@ -25,7 +25,7 @@ let unde1: undefined = undefined;
 
 // 리터럴 타입:값자체가 타입
 let numA: 10 = 10;
-numA = 12;
+// numA = 12;
 
-let strA = ('hello' = 'hello');
-let boolA = (true = false);
+// let strA = ('hello' = 'hello');
+// let boolA = (true = false);
